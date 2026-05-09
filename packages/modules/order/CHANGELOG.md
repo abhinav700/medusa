@@ -1,5 +1,14 @@
 # @medusajs/order
 
+## 2.15.0
+
+### Patch Changes
+
+- [#15329](https://github.com/medusajs/medusa/pull/15329) [`15c938bef93e30fe62f59a78d09cdf412fb92f5a`](https://github.com/medusajs/medusa/commit/15c938bef93e30fe62f59a78d09cdf412fb92f5a) Thanks [@NicolasGorga](https://github.com/NicolasGorga)! - fix(order): fix regression on order.items.metadata showing null when line item metadata is set
+
+- Updated dependencies []:
+  - @medusajs/framework@2.15.0
+
 ## 2.14.2
 
 ### Patch Changes
